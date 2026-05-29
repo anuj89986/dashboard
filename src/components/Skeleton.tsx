@@ -1,5 +1,5 @@
 export function SkeletonBlock({ className = '' }: { className?: string }) {
-  return <div className={`rounded-2xl bg-[#2a2727] animate-pulse ${className}`} />;
+  return <div className={`rounded-2xl bg-[#210735] animate-pulse ${className}`} />;
 }
 
 export function DashboardSkeleton() {
